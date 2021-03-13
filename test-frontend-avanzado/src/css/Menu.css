@@ -1,0 +1,43 @@
+#table-users {
+  font-size: 0.8em;
+}
+
+.table-user {
+  transition: all 0.2s;
+  cursor: pointer;
+  background-color: rgb(224, 221, 221);
+  margin: auto;
+  margin-top: 2%;
+}
+
+.table-user:hover {
+  background-color: rgb(207, 207, 204); 
+}
+
+#name-no-editable {
+  background-color: rgb(207, 207, 207);
+}
+
+#grap {
+  background-color: rgb(221, 221, 221);
+  margin: auto;
+  padding-top: 2%;
+  margin-top: 2%;
+}
+
+#grap-circ{
+  background-color: rgb(221, 221, 221);
+  margin: auto;
+  padding-top: 2%;
+  margin-top: 2%;
+}
+
+.pie-grap{
+  width:80%;
+  height: 80%;
+  margin:auto;
+}
+
+#tab{
+    background-color: rgb(207, 207, 204);
+}
